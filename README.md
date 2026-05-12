@@ -2,7 +2,7 @@
 
 An automated data engineering pipeline built on Databricks that ingests, transforms, and visualizes transactional data using a **Medallion Architecture** (Bronze / Silver / Gold) with help of (Databrick Genie Code)[https://docs.databricks.com/aws/en/genie-code/].
 
-<img src="images/Project_Architecture.png"/>
+<img src="Images/Project_Architecture.png"/>
 
 
 ---
@@ -126,4 +126,4 @@ Create a new pipeline named **Transactions Pipeline** to contain same structure 
   
 You can see the final dashboard from this (link)[https://dbc-9871d47d-3427.cloud.databricks.com/dashboardsv3/01f14e4b8fc81ba3b912bb4f7d094674/published?o=4451875519498745]
 it will be like this (this is part of the full dashboard):
-<img src="images/Dashboard.png"/>
+<img src="Images/Dashboard.png"/>
